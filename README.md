@@ -1,8 +1,5 @@
 # ZeroHour
-# Hi there, I'm ZeroHour👋
-
-## About Me
-I'm a passionate developer with a keen interest in web development, machine learning, and open-source contributions. I love exploring new technologies and constantly improving my coding skills.
+# Hi there, I'm ZeroHour👋 I love exploring new technologies and constantly improving my coding skills. Also a music producer.
 
 ## Skills
 - **Languages:**
@@ -12,10 +9,8 @@ I'm a passionate developer with a keen interest in web development, machine lear
 
   - ![](https://img.shields.io/badge/stmicroelectronics-FF6C37?style=for-the-badge&logo=stmicroelectronics&logoColor=FFFFFF)
 
-- **Tools:**
   - Git & GitHub
   - VS Code
-
 
 ## GitHub Stats
 ![ZeroHour-Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroHour-Z&show_icons=true&theme=radical)
