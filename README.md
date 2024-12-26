@@ -1,5 +1,7 @@
 # ZeroHour
-# Hi there, I'm ZeroHour👋 I love exploring new technologies and constantly improving my coding skills. Also a music producer.
+# Hi there, I'm ZeroHour👋
+
+I love exploring new technologies and constantly improving my coding skills. I'm also a music producer.
 
 ## Skills
 - **Languages:**
@@ -18,6 +20,7 @@
 ## Get in Touch
 - **Email:** 2719850558@qq.com
 - **Twitter:** [@ZeroHour](https://x.com/ZeroHour0S)
+- **NetEase** [@ZeroHour](https://music.163.com/#/artist?id=33400424)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about tech.
 
